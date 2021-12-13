@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jocafe/static/css/main.d1b05096.chunk.css",
+    "main.js": "/jocafe/static/js/main.5936eb27.chunk.js",
+    "main.js.map": "/jocafe/static/js/main.5936eb27.chunk.js.map",
+    "runtime-main.js": "/jocafe/static/js/runtime-main.6a7f444e.js",
+    "runtime-main.js.map": "/jocafe/static/js/runtime-main.6a7f444e.js.map",
+    "static/js/2.864e57d5.chunk.js": "/jocafe/static/js/2.864e57d5.chunk.js",
+    "static/js/2.864e57d5.chunk.js.map": "/jocafe/static/js/2.864e57d5.chunk.js.map",
+    "index.html": "/jocafe/index.html",
+    "precache-manifest.237a0f8d5f9c7cfc7670a71cbb841406.js": "/jocafe/precache-manifest.237a0f8d5f9c7cfc7670a71cbb841406.js",
+    "service-worker.js": "/jocafe/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/jocafe/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.864e57d5.chunk.js.LICENSE.txt": "/jocafe/static/js/2.864e57d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a7f444e.js",
+    "static/js/2.864e57d5.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.5936eb27.chunk.js"
+  ]
+}
